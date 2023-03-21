@@ -25,6 +25,4 @@ If you want to contribute to this project, feel free to fork the repository and 
 # 👀 More Information
 The links below contain a brief presentation and a video Demo.
 - 📌 Presentation : https://drive.google.com/file/d/16ouc7As8vIZUJkk1malKZMZupyt-33yt/view?usp=share_link
-- 📌 Demo : https://drive.google.com/file/d/165du9Z9dWycpwDwQbn8eSuF5K5xHLHIM/view?usp=share_link
-
-[Aziz 9albi](https://drive.google.com/file/d/165du9Z9dWycpwDwQbn8eSuF5K5xHLHIM/view?usp=share_link)
+- 📌 Demo : https://youtu.be/pR_HvLm12K4
