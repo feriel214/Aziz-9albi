@@ -27,5 +27,4 @@ The links below contain a brief presentation and a video Demo.
 - 📌 Presentation : https://drive.google.com/file/d/16ouc7As8vIZUJkk1malKZMZupyt-33yt/view?usp=share_link
 - 📌 Demo : https://drive.google.com/file/d/165du9Z9dWycpwDwQbn8eSuF5K5xHLHIM/view?usp=share_link
 
-<video src='https://drive.google.com/file/d/165du9Z9dWycpwDwQbn8eSuF5K5xHLHIM/view?usp=share_link' width=180/>
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[Aziz 9albi](https://drive.google.com/file/d/165du9Z9dWycpwDwQbn8eSuF5K5xHLHIM/view?usp=share_link)
